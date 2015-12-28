@@ -1,3 +1,6 @@
+**Title:**
+Complex and Degraded Color Document Image Binarization
+
 **Abstract:**
 We present a document binarization scheme that is intended at consistently binarizing
 a range of degraded color document images. The proposed solution makes use of a 
